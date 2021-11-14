@@ -1,2 +1,2 @@
 # FocusApp
-Focus App
+Focus App with Flutter
